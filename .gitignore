@@ -1,0 +1,6 @@
+# Elements for not load in Repository
+node_modules/
+.vscode
+bin
+obj
+*.db
